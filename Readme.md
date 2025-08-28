@@ -1,5 +1,3 @@
-# Projects
-Projects for reference
 🎮 Python Game Hub
 
 An interactive terminal-based application featuring multiple mini-games built using Python.
